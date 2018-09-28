@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="title_activity_login_email_password">Login with Email/Password</string>
+    <string name="title_activity_create_account">Create Account</string>
+    <string name="title_activity_access_account">AccessAccount</string>
+</resources>
